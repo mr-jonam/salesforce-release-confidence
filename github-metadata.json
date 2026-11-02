@@ -1,0 +1,20 @@
+{
+  "name": "salesforce-release-confidence",
+  "description": "Explore Salesforce release testing across Apex, Flow, Lightning and integrations. Prepare business acceptance questions without accessing an org.",
+  "topics": [
+    "salesforce",
+    "salesforce-testing",
+    "apex",
+    "salesforce-flow",
+    "regression-testing",
+    "release-management",
+    "quality-assurance",
+    "crm"
+  ],
+  "visibility": "private-until-approved",
+  "has_issues": false,
+  "has_wiki": false,
+  "funding": "not-enabled",
+  "homepage": null,
+  "notes": "Proposed metadata only; no GitHub repository created. Replace homepage only with an approved URL."
+}

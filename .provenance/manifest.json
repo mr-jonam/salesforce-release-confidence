@@ -1,0 +1,52 @@
+{
+  "schema": "platform-advisory.provenance.v1",
+  "created_at": "2026-11-02T15:04:50.596Z",
+  "record_type": "local-private-inception",
+  "owner_ref": "unassigned-rights-holder",
+  "project_id": "3bc19958-35e0-4349-a64c-d9b41060d193",
+  "project_token": "KeLD_F6Sf3iE6DgJhQk_Zv4JvEjHD4NrdC8nvEN1JVw",
+  "rights_profile": "private-provisional",
+  "license_sha256": "05e4eebc9e6a4ef3ff2c2f6c2c5cd27f635e4ec59d0578df0105cbff29b52603",
+  "tracked_tree_sha256": "2fa6d30b557d7c02127b28e83641549f1eee5ba6143ecf54945d907d5d2e1d6a",
+  "tracked_file_count": 29,
+  "files_sha256": {
+    ".gitattributes": "58731bfc1e660d66fc20884ca9a22aa5e6a5d00c41479a48ce359a6a721d1e2b",
+    ".github/ISSUE_TEMPLATE/config.yml": "1f103c6a9dd07cd13a9a6f17ace6b813f47747eb9cb7e00488cb2073caaf91bb",
+    ".gitignore": "ce8781496db136165aa6d1edbe748926fb95d20b4b859dae900ed90a795ee3e1",
+    "AGENTS.md": "aebcd0e05f61679b24840131ceffc018bdee56be4a4b832bdc8b360c33ff50ab",
+    "CONTRIBUTING.md": "e66db881aef9d5c720fee0414a0839da7b9a534994297d724a917e76cb664149",
+    "LICENSE": "05e4eebc9e6a4ef3ff2c2f6c2c5cd27f635e4ec59d0578df0105cbff29b52603",
+    "LICENSE-DECISION.md": "8545b887d3f72dd416037a03495a0ae5232ce5fcfc16dec30ee7d8a47299c0e7",
+    "NOTICE": "b4fa93891c5079718d1829d700e9032cf637714d0fa383ac798227695ca7cf73",
+    "PUBLISHING.md": "313d8455b1c6ffec080d533766e98a5c4bc90537c6423f5c07593ee47059c3ab",
+    "README.md": "946b8d00ecd527ea3c7c30094fe3a9c74482fa3ad6f4353469dbf9db267e7d38",
+    "SECURITY.md": "27878adcb24148e6a1753892270dddf70b0792ff09bd66493247c24d0c85c992",
+    "SOURCES.md": "b17048513b747d8969aea22c3717661ddd934a5452261a91c79c8babd1468553",
+    "docs/assets/icon.svg": "f65e6cc8bcdd31810ee956dda0caf3be60becd2b96ae2a2717f8a913b638a427",
+    "docs/assets/share.svg": "ba9c55230df6d66ec2083f9ffb91c867a552aeb874939626d62e2ade23d7aba4",
+    "docs/assets/site.css": "93509e685f9137e709b052cf66e7a6abe6eb872cbdb51fc95d37d203575a0a93",
+    "docs/assets/tool.js": "f296d3b72c3fabfc8cdfa75e1aff1aa08232652685e1abd955d7579442e55f7a",
+    "docs/contact.html": "c7c18eb2d19c1ec76deff7fa1411fbd350b5234d27dc9056c6709def4787cee0",
+    "docs/guide.html": "7b939b0e740826f91e1f8373782c9426f404260818b5674ffef513272eeb880c",
+    "docs/index.html": "bda5df6f1471add83fc460f4ea8966022cdbc2d3e1bd78375a6d8bd8b0fcd222",
+    "docs/privacy.html": "21c63383c9ff384adac1bc09e72fba9c3af64a4ea31bd9422e4730af6b808cba",
+    "docs/references.html": "e2cc1936a94a08b6e482ad128d0fc5ab1fc641eb80714f292a245130b0a7d125",
+    "docs/robots.txt": "331ea9090db0c9f6f597bd9840fd5b171830f6e0b3ba1cb24dfa91f0c95aedc1",
+    "docs/tool.html": "f91a5609f74e46fd569e16774bdc7640812aa64ce735d5c494d3bee281c7eae4",
+    "github-metadata.json": "f89f844fd7e7168568429aa13a8c8463e29467b51229d91f572cff6dd53296a9",
+    "package.json": "dbf1bdd82eda15d96b3db83c18631cf2604c34b4c24fd4d91b7d63c54fc5a990",
+    "scripts/configure.mjs": "78376fa66bba82f2fcfcc8352262993aae270e719c8e8c8c4b17ffcbe18eb843",
+    "scripts/serve.mjs": "0ba2ac3de719b6499a9dc89af51f6049ca116d59def85d3e09f8160e5f2062d1",
+    "site-config.json": "c760f7868b89da0a62f0d11987620acb6cb7dec1ea46565a3ccc16a864855b5f",
+    "skills/salesforce-release-confidence/SKILL.md": "600d0435b4538be648d810262247d5b09b94a005152d95467d38467dd5db4fe0"
+  },
+  "signing": {
+    "status": "pending-user-controlled-signing-input",
+    "algorithm": null
+  },
+  "encryption": {
+    "status": "pending-user-public-recipient-and-approved-identity",
+    "algorithm": null
+  },
+  "limitations": "Unsigned local integrity record. Public correlation token, not a credential. Not DRM, conclusive ownership proof or guaranteed tracing. Preserve this record and generate a separate release record after final edits."
+}

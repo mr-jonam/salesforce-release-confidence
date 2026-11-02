@@ -1,0 +1,14 @@
+{
+  "name": "salesforce-release-confidence",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Explore Salesforce release testing across Apex, Flow, Lightning and integrations. Prepare business acceptance questions without accessing an org.",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "preview": "node scripts/serve.mjs",
+    "configure": "node scripts/configure.mjs"
+  },
+  "license": "UNLICENSED"
+}
