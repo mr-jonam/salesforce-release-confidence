@@ -1,0 +1,39 @@
+{
+  "schema": "mr-jonam.first-use-integrity.v1",
+  "change_id": "87663b57-59d4-4401-bd27-d966e0ec7f6d",
+  "owner_ref": "mr-jonam",
+  "date": "2026-11-06",
+  "source_base_commit": "30fbd2ad153fd31784c4c522e604b6103337ebc0",
+  "existing_identity_record": ".provenance/manifest.json",
+  "scope": "Only the listed original documentation, private strategy where applicable, and component review additions; no application-code or historical-dependency audit.",
+  "representation": "UTF-8 text with CRLF normalised to LF; working-tree content before the local change commit",
+  "license": {
+    "path": "LICENSE",
+    "sha256": "ed6097870a0d3df39bcffc79eeeea72769246736aa446a1f27a9a5620659acaf"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "3378facd96ac0b6dd62ae6a5e219b953791dc0d85f6a0f293409e273c9b7bfd1"
+    },
+    {
+      "path": "examples/FIRST-RESULT.md",
+      "sha256": "5c91204b1a61ddecd9bc35ddc7c131d7a77d24ab2bac81abcdbd0e91e7cff8c5"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "sha256": "2b58906ebbbc4e1459f8581e81c423b7011e8da2f3dfab768c82b406782ff134"
+    },
+    {
+      "path": "AGENTS.md",
+      "sha256": "2cbd9cbeabc8e8cd38c48356acf2bd76abe4746c50f96436239aa00f59488444"
+    },
+    {
+      "path": "LICENSE-DECISION.md",
+      "sha256": "e068505ea4888e56a69ea9c59f96c524b5a39b159ba60f9d6fa7639355c3911c"
+    }
+  ],
+  "signing": null,
+  "identity_envelope": null,
+  "limitations": "Unsigned additive integrity evidence; not DRM, guaranteed tracing or conclusive proof of legal ownership. Existing records are preserved."
+}
